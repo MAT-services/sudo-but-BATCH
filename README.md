@@ -1,5 +1,5 @@
 # ![Sudo for windows logo](https://raw.githubusercontent.com/microsoft/sudo/refs/heads/main/img/Windows/AppList.targetsize-24.png) Sudo but BATCH
-Why Microsoft created an executable just for the SUDO command ? I created a small BATCH script that does approximately the same.
+Why [Microsoft created an executable just for the SUDO command](https://github.com/microsoft/sudo) ? I created a small BATCH script that does approximately the same.
 ## What diferencies
 - Text for errors.
 - Can execute commands and not only executables.
